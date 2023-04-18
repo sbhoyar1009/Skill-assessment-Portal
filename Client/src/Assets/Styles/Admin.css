@@ -1,0 +1,70 @@
+.tab-panel {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.tab-panel .row .col-md-9,
+.tab-panel .row .col-md-2 {
+  margin-top: 6rem;
+}
+
+.col-md-2 {
+  margin-left: 2rem;
+  background-color: #b2ff453b;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.col-12 {
+  margin-left: 18px;
+  background-color: #b2ff453b;
+  height: 100%;
+  padding: 30px;
+  overflow-y: auto;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: black;
+  background-color: #b2ff45fd;
+}
+
+.check-box .col-md-2,
+.check-box .col-md-9,
+.check-box .col-md-1 {
+  margin-top: 0 !important;
+  margin-left: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn-refresh {
+  color: black !important;
+  border-radius: 2px !important;
+  padding: 0.5rem 1.5rem !important;
+  background-color: rgb(142, 233, 5) !important;
+  border-color: rgb(142, 233, 5) !important;
+}
+
+.pdf-btn {
+  width: 24%;
+  height: 30px;
+  font-size: 10px;
+  font-weight: bold;
+  margin-right: 2rem;
+}
+.view-pdf-btn {
+  width: 80%;
+  height: 32px;
+  font-size: 10px;
+  font-weight: bold;
+}

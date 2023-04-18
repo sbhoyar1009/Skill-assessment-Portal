@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "61975094ea35432d44780979"
+  },
+  "CompetencyID": 40000003,
+  "Competency": "C Language",
+  "subcompetencies": [
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097a"
+      },
+      "SubCompetencyID": 40000073,
+      "SubCompetency": "Types"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097b"
+      },
+      "SubCompetencyID": 40000153,
+      "SubCompetency": "Operators"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097c"
+      },
+      "SubCompetencyID": 40000160,
+      "SubCompetency": "Expression"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097d"
+      },
+      "SubCompetencyID": 40000163,
+      "SubCompetency": "Control Flows"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097e"
+      },
+      "SubCompetencyID": 40000170,
+      "SubCompetency": "Program Structure"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d4478097f"
+      },
+      "SubCompetencyID": 40000176,
+      "SubCompetency": "C Preprocessor"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780980"
+      },
+      "SubCompetencyID": 40000180,
+      "SubCompetency": "Pointers"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780981"
+      },
+      "SubCompetencyID": 40000187,
+      "SubCompetency": "Pointers and Arrays"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780982"
+      },
+      "SubCompetencyID": 40000193,
+      "SubCompetency": "Structure"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780983"
+      },
+      "SubCompetencyID": 40000201,
+      "SubCompetency": "Input and Output"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780984"
+      },
+      "SubCompetencyID": 40003814,
+      "SubCompetency": "Storage Classes"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780985"
+      },
+      "SubCompetencyID": 40003820,
+      "SubCompetency": "Library Functions"
+    },
+    {
+      "_id": {
+        "$oid": "61975094ea35432d44780986"
+      },
+      "SubCompetencyID": 40003824,
+      "SubCompetency": "Functions"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61975151773cd31aac928fd1"
+  },
+  "CompetencyID": 40000000,
+  "Competency": "C++",
+  "subcompetencies": [
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd2"
+      },
+      "SubCompetencyID": 40000000,
+      "SubCompetency": "Constructor & Destructors"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd3"
+      },
+      "SubCompetencyID": 40000032,
+      "SubCompetency": "Inheritance"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd4"
+      },
+      "SubCompetencyID": 40000040,
+      "SubCompetency": "Compile time Polymorphism"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd5"
+      },
+      "SubCompetencyID": 40000045,
+      "SubCompetency": "Runtime Polymorphism"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd6"
+      },
+      "SubCompetencyID": 40000049,
+      "SubCompetency": "Templates"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd7"
+      },
+      "SubCompetencyID": 40000052,
+      "SubCompetency": "Exceptional Handling"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd8"
+      },
+      "SubCompetencyID": 40000057,
+      "SubCompetency": "Identifiers, Keywords and Functions"
+    },
+    {
+      "_id": {
+        "$oid": "61975151773cd31aac928fd9"
+      },
+      "SubCompetencyID": 40000065,
+      "SubCompetency": "STL"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d81224e4da2d28c1fb6976"
+  },
+  "CompetencyID": 40000156,
+  "Competency": "MATLAB",
+  "subcompetencies": [
+    {
+      "SubCompetencyID": 40002259,
+      "SubCompetency": "MATLAB Script"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "625ce9074046aa2011ec1f37"
+  },
+  "Competency": "Python",
+  "CompetencyID": 40000159,
+  "subcompetencies": [
+    {
+      "SubCompetencyID": 1234567,
+      "SubCompetency": "Python Script"
+    }
+  ]
+}]

@@ -1,0 +1,35 @@
+#gitlabURL,
+#gitlabCommand {
+  background-color: #fff;
+  padding: 0.6rem 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid rgba(0, 0, 0, 0.164);
+  border-radius: 3px;
+}
+#gitlabCommand {
+  width: fit-content;
+  padding: 0.2rem 0.5rem;
+}
+
+/* .gitlabCommands:first-child {
+  margin-top: 0.5rem;
+} */
+
+.copyURL {
+  opacity: 0.5;
+  transform: scale(1);
+}
+.copyURL:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+.copyURL:active {
+  transform: scale(1);
+}
+
+@media print {
+  .pdf-container {
+    display: none;
+    margin-top: -10px;
+  }
+}

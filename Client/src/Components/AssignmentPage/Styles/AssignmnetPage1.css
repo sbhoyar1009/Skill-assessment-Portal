@@ -1,0 +1,71 @@
+.assignment-list .tab-panel {
+  /* overflow-y: auto; */
+  /* overflow-x: hidden; */
+}
+
+/* .assignment-list .tab-panel .row .col-md-1 {
+  margin-top: 5rem;
+} */
+/* .assignment-list .tab-panel .row .col-md-10 {
+  margin-top: 1rem;
+} */
+
+.PrivateTabIndicator-colorSecondary-21 {
+  background-color: transparent !important;
+}
+
+.MuiTab-wrapper {
+  font-weight: 800 !important;
+}
+
+.assignment-list .col-md-1 {
+  background-color: #b2ff453b;
+  padding: 6rem 5px 0px 15px;
+  border-right: 2px solid #2c3d1342;
+  border-left: 2px solid #2c3d1342;
+}
+/* 
+.left-fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+} */
+
+.assignment-list .col-md-11 {
+  height: 100vh;
+  overflow-y: auto;
+  padding: 1rem 2rem;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.assignment-list .nav-pills .nav-link {
+  color: black;
+  background-color: #b2ff45fd;
+  margin-top: 4px;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+}
+
+.assignment-list .nav-pills .nav-link.active,
+.assignment-list .nav-pills .show > .nav-link {
+  color: #b2ff45fd;
+  background-color: black;
+}
+
+.assignment-list .que-no {
+  /* width: 80px; */
+  text-align: center;
+}
+
+/* .assignment-list .col-12 {
+  background-color: white;
+} */

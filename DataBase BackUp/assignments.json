@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "617be08627ef2725c0f80c4e"
+  },
+  "file": false,
+  "title": "Assignment 1",
+  "gitlabUserProjectId": 6,
+  "gitlabGroupId": 19,
+  "maxScore": 100,
+  "__v": 0,
+  "Competency": "C++",
+  "subCompetency": "Compile time Polymorphism"
+},{
+  "_id": {
+    "$oid": "619b58f3cf5e440c10555cfb"
+  },
+  "file": false,
+  "title": "C assignment",
+  "gitlabUserProjectId": 41,
+  "gitlabGroupId": 58,
+  "maxScore": 100,
+  "__v": 0,
+  "Competency": "C++",
+  "subCompetency": "Compile time Polymorphism"
+},{
+  "_id": {
+    "$oid": "619b63bccd9d2b0bd0908c00"
+  },
+  "file": false,
+  "title": "CPP Assignment 1",
+  "gitlabUserProjectId": 22,
+  "gitlabGroupId": 38,
+  "Competency": "C++",
+  "subCompetency": "Compile time Polymorphism",
+  "maxScore": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d812d9cd5993293887f444"
+  },
+  "file": false,
+  "title": "Demo-Assignment",
+  "gitlabUserProjectId": 90,
+  "gitlabGroupId": 5304,
+  "Competency": "MATLAB",
+  "subCompetency": "MATLAB Script",
+  "maxScore": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a3116d0733d6787bdfc47"
+  },
+  "file": false,
+  "title": "KT-Assignment",
+  "gitlabUserProjectId": 4161,
+  "gitlabGroupId": 13365,
+  "Competency": "C++",
+  "subCompetency": "Runtime Polymorphism",
+  "difficulty": "Hard",
+  "maxScore": 100,
+  "__v": 0
+}]
